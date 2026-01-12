@@ -1,0 +1,33 @@
+{
+  "history": [
+    {
+      "Date & Time": "2025-12-17 11:21:07",
+      "Topic": "ai",
+      "Subtopics Source": "openai",
+      "Subtopics Time (s)": 3.564843792002648,
+      "Notes Generated": 1
+    },
+    {
+      "Date & Time": "2025-12-17 11:35:37",
+      "Topic": "inheritance",
+      "Subtopics Time (s)": 3.5006467080675066,
+      "Notes Total Time (s)": 35.68269554094877,
+      "Subtopics Count": 5
+    },
+    {
+      "Date & Time": "2025-12-17 11:46:50",
+      "Topic": "oops",
+      "Subtopics Count": 5,
+      "Subtopics Time (s)": 2.5604589170543477,
+      "Notes Total Time (s)": 37.56292304105591
+    },
+    {
+      "Date & Time": "2025-12-17 11:57:19",
+      "Topic": "abstraction",
+      "Subtopics Count": 5,
+      "Subtopics Time (s)": 2.2101592919789255,
+      "Notes Total Time (s)": 31.36588441708591
+    }
+  ],
+  "quiz_history": []
+}
